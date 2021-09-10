@@ -1,0 +1,33 @@
+body
+{
+    background-image:url("Winmain.jpg");
+}
+#navbar{
+    background-color:rgb(brown);
+    display: flex; 
+    justify-content: space-evenly;
+    font-size: xx-large; 
+    }
+h1 {
+    color: white;
+    font-size: 50px;
+}
+p {
+    color: white;
+    font-size: 30px;
+}
+h2 {
+    color: white;
+    font-size: 37px;
+}
+  
+a {
+    color: white;
+    font-size: 17px;
+}
+.centretext{
+    text-align: center;
+}
+.class{
+    width: 10%;
+}
